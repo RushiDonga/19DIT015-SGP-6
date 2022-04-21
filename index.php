@@ -4,7 +4,7 @@
 <h1 style="font-size: 50px; text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;">SGP Project</h1>
 <h3 style="font-size: 25px;">Nishita Ardeshna (19DIT003)</h3>
 <h3 style="font-size: 25px;">Rushi Donga (19DIT015)</h3>
-<p style="font-size: 25px; text-align: center; font-weight: bold;">Updated List</p>
+<p style="font-size: 25px; text-align: center; font-weight: bold;">Final Commit</p>
 
 <?php
 
